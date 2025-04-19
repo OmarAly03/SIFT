@@ -54,4 +54,11 @@
   ![img_matches](https://github.com/OmarAly03/SIFT/blob/main/outputs/buddist/img_matches.jpg)
 - Outlining object:<br/>
   ![target_with_outline](https://github.com/OmarAly03/SIFT/blob/main/outputs/buddist/target_with_outline.jpg)
+
+## Testing on videos
+### Test1
+- Query image:<br/>
+  ![bic_query](https://github.com/OmarAly03/SIFT/blob/main/images/bic_query.png)
+- Output Video:<br/>
+  ![bic_output](https://github.com/OmarAly03/SIFT/blob/main/outputs/bic_video_output.mp4)
   
