@@ -79,7 +79,7 @@ https://github.com/OmarAly03/SIFT/blob/main/outputs/spiro_video_output.mp4
 ### Test 3: Statue of Liberty
 - Credits (Original Video): (https://www.youtube.com/watch?v=U7bYz_HODaI&t=2s)
 - Query image:<br/>
-  ![spiro_query](https://github.com/OmarAly03/SIFT/blob/main/images/spiro_query.png)
+  ![spiro_query](https://github.com/OmarAly03/SIFT/blob/main/images/sol_query.png)
 - Output Video:<br/>
 https://github.com/OmarAly03/SIFT/blob/main/outputs/sol_video_output.mp4
 
