@@ -72,7 +72,8 @@ https://github.com/user-attachments/assets/c58f6b50-f3e3-4e73-98d3-fab048f70a14
 - Query image:<br/>
   ![spiro_query](https://github.com/OmarAly03/SIFT/blob/main/images/spiro_query.png)
 - Output Video:<br/>
-https://github.com/user-attachments/assets/7b3b754b-3c71-4f08-b5f6-4bcdd88f64b2
+![image](https://github.com/user-attachments/assets/7b3b754b-3c71-4f08-b5f6-4bcdd88f64b2)
+
 
 
 
