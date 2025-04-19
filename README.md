@@ -16,8 +16,42 @@
 
 ## Testing on images
 ### Test 1
-- Query image:
+- Query image:<br/>
   ![neosporin_query](https://github.com/OmarAly03/SIFT/blob/main/images/neosporin_query.png)
-- Target image:
+- Target image:<br/>
   ![neosporin_target](https://github.com/OmarAly03/SIFT/blob/main/images/neosporin_target.jpg)
+- Matching:<br/>
+  ![img_matches](https://github.com/OmarAly03/SIFT/blob/main/outputs/neosporin/img_matches.jpg)
+- Outlining object:<br/>
+  ![target_with_outline](https://github.com/OmarAly03/SIFT/blob/main/outputs/neosporin/target_with_outline.jpg)
+
+### Test 2
+- Query image:<br/>
+  ![aquaphor1_query](https://github.com/OmarAly03/SIFT/blob/main/images/aquaphor1_query.jpg)
+- Target image:<br/>
+  ![aquaphor1_target](https://github.com/OmarAly03/SIFT/blob/main/images/aquaphor1_target.png)
+- Matching:<br/>
+  ![img_matches](https://github.com/OmarAly03/SIFT/blob/main/outputs/aquaphor1/img_matches.jpg)
+- Outlining object:<br/>
+  ![target_with_outline](https://github.com/OmarAly03/SIFT/blob/main/outputs/aquaphor1/target_with_outline.jpg)
+
+### Test 3
+- Query image:<br/>
+  ![aquaphor2_query](https://github.com/OmarAly03/SIFT/blob/main/images/aquaphor2_query.jpg)
+- Target image:<br/>
+  ![aquaphor2_target](https://github.com/OmarAly03/SIFT/blob/main/images/aquaphor2_target.png)
+- Matching:<br/>
+  ![img_matches](https://github.com/OmarAly03/SIFT/blob/main/outputs/aquaphor2/img_matches.jpg)
+- Outlining object:<br/>
+  ![target_with_outline](https://github.com/OmarAly03/SIFT/blob/main/outputs/aquaphor2/target_with_outline.jpg)
+
+### Test 4
+- Query image:<br/>
+  ![buddist_query](https://github.com/OmarAly03/SIFT/blob/main/images/buddist_query.png)
+- Target image:<br/>
+  ![buddist_target](https://github.com/OmarAly03/SIFT/blob/main/images/buddist_target.webp)
+- Matching:<br/>
+  ![img_matches](https://github.com/OmarAly03/SIFT/blob/main/outputs/buddist/img_matches.jpg)
+- Outlining object:<br/>
+  ![target_with_outline](https://github.com/OmarAly03/SIFT/blob/main/outputs/buddist/target_with_outline.jpg)
   
