@@ -13,3 +13,11 @@
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Testing on images
+### Test 1
+- Query image:
+  ![neosporin_query](https://github.com/OmarAly03/SIFT/blob/main/images/neosporin_query.png)
+- Target image:
+  ![neosporin_target](https://github.com/OmarAly03/SIFT/blob/main/images/neosporin_target.jpg)
+  
